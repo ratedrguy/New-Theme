@@ -8,10 +8,10 @@
 			<size>0 1</size>
 			<pos>0.5 0.5</pos>
 			<origin>0.5 0.5</origin>
-			<path>./$system/data/bg.jpg</path>
+			<path>./data/bg.jpg</path>
 		</image>
 		<image name="logo">
-			<path>./$system/data/logo.png</path>
+			<path>./data/logo.png</path>
 		</image> 
 		<text name="logoText">
 			<color>000000</color>
