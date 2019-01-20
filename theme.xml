@@ -8,8 +8,6 @@
 
 	<view name="basic, detailed, video">
 	
-	</view>
-	
 		<image name="background" extra="true">
 			<size>0 1</size>
 			<pos>0.5 0.5</pos>
@@ -28,6 +26,8 @@
 			<textColor>FFFFFF50</textColor>
 			<iconColor>FFFFFF50</iconColor>
 		</helpsystem>
+		
+		</view>	
 		
 	<view name="basic, detailed">
 		<image name="logo">
